@@ -20,3 +20,8 @@ if __name__ == "__main__":
             )
         raise
     execute_from_command_line(sys.argv)
+
+   # Ek ladki baba ke paas gai .. Ladki : Baba ji mujhe bhavishay dekhna hai.. Baba : Thik hai , Kapde utaro aur ghodi ban jao.. Ladki : Baba Aap  mujhe chodna chate ho.. Baba : Dekha tum dekhne lagi na bhavishay….
+
+#Source: http://funnyworldmarket.com/category/hindi-funny-jokes/dirty-jokes-hindi/
+#© Funny World Market
